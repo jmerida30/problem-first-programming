@@ -3,7 +3,6 @@ layout: default
 title: Problem First Programming
 ---
 
-# Problem First Programming  
 *Think first. Code second.*
 
 ## What is this?
